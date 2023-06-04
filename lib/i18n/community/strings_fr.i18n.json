@@ -56,7 +56,7 @@
       "maxImageSize": "Les images plus grandes seront compressées",
       "editorPromptRename": "Vous pourrez toujours les renommer plus tard",
       "hideHomeBackgrounds": "Pour une apparence plus sobre",
-      "printPageIndicators": "Montrer les numéros de pages dans les exportations"
+      "printPageIndicators": "Montre les numéros de pages dans les exportations"
     },
     "themeModes": {
       "system": "Système",
@@ -100,14 +100,14 @@
       "username": "Nom d'utilisateur ou adresse mel",
       "ncPassword": "Mot de passe Nextcloud",
       "encPassword": "Mot de passe de cryptage",
-      "agreeToPrivacyPolicy(rich)": "En vous connectant, vous acceptez les ${linkToPrivacyPolicy(Privacy Policy)}.",
+      "agreeToPrivacyPolicy(rich)": "En vous connectant, vous acceptez notre ${linkToPrivacyPolicy(politique de confidentialité)}.",
       "login": "Se connecter"
     },
-    "signup(rich)": "Pas encore de compte ? ${linkToSignup(Sign up now)} !",
+    "signup(rich)": "Pas encore de compte ? ${linkToSignup(Créer un compte)} !",
     "status": {
       "loggedIn": "Connecté avec Nextcloud",
       "loggedOut": "Déconnecté",
-      "tapToLogin": "Appuyer pour vous connecter avec Nextcloud"
+      "tapToLogin": "Cliquer pour vous connecter avec Nextcloud"
     },
     "faq": [
       {
