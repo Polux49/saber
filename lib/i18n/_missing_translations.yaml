@@ -107,89 +107,89 @@ fa:
       autosaveDelay(OUTDATED): How long to wait before auto-saving a note
 fr:
   home:
-    backFolder(OUTDATED): Go back to the previous folder
+    backFolder(OUTDATED): Retourner au dossier précédent
     newFolder:
-      newFolder(OUTDATED): New folder
-      folderName(OUTDATED): Folder name
-      create(OUTDATED): Create
-      folderNameEmpty(OUTDATED): Folder name can't be empty
-      folderNameContainsSlash(OUTDATED): Folder name can't contain a slash
-      folderNameExists(OUTDATED): Folder already exists
+      newFolder(OUTDATED): Nouveau dossier
+      folderName(OUTDATED): Nom de dossier
+      create(OUTDATED): Créer
+      folderNameEmpty(OUTDATED): Un nom de dossier ne peut pas être vide
+      folderNameContainsSlash(OUTDATED): Un nom de dossier ne peut pas contenir de barre oblique
+      folderNameExists(OUTDATED): Un dossier de ce nom existe déjà
     renameNote:
-      renameNote(OUTDATED): Rename note
-      noteName(OUTDATED): Note name
-      rename(OUTDATED): Rename
-      noteNameEmpty(OUTDATED): Note name can't be empty
-      noteNameContainsSlash(OUTDATED): Note name can't contain a slash
-      noteNameExists(OUTDATED): A note with this name already exists
+      renameNote(OUTDATED): Renommer la note
+      noteName(OUTDATED): Nom de la note
+      rename(OUTDATED): Renommer
+      noteNameEmpty(OUTDATED): Un nom de note ne peut pas être vide
+      noteNameContainsSlash(OUTDATED): Un nom de note ne peut pas contenir une barre oblique
+      noteNameExists(OUTDATED): Une note de ce nom existe déjà
     moveNote:
-      moveNote(OUTDATED): Move note
-      moveName(OUTDATED): Move $f
-      move(OUTDATED): Move
-      renamedTo(OUTDATED): Note will be renamed to $newName
-    deleteNote(OUTDATED): Delete note
+      moveNote(OUTDATED): Déplacer la note
+      moveName(OUTDATED): Déplacer $f
+      move(OUTDATED): Déplacer
+      renamedTo(OUTDATED): La note va être renommée $newName
+    deleteNote(OUTDATED): Effacer la note
     deleteFolder:
-      deleteFolder(OUTDATED): Delete folder
-      deleteName(OUTDATED): Delete $f
-      delete(OUTDATED): Delete
-      alsoDeleteContents(OUTDATED): Also delete all notes inside this folder
+      deleteFolder(OUTDATED): Effacer le dossier
+      deleteName(OUTDATED): Effacer $f
+      delete(OUTDATED): Effacer
+      alsoDeleteContents(OUTDATED): Effacer aussi toutes les notes dans le dossier
   settings:
     prefCategories:
-      editor(OUTDATED): Editor
-      advanced(OUTDATED): Advanced
+      editor(OUTDATED): Éditeur
+      advanced(OUTDATED): Avancé
     prefLabels:
-      layoutSize(OUTDATED): Layout type
-      disableAds(OUTDATED): Disable ads
-      changeAdsConsent(OUTDATED): Change ads consent
-      allowInsecureConnections(OUTDATED): Allow insecure connections
-      disableEraserAfterUse(OUTDATED): Switch back to the pen after using the eraser
-      hideFingerDrawingToggle(OUTDATED): Hide the finger drawing toggle
-      autosaveDelay(OUTDATED): Auto-save delay
+      layoutSize(OUTDATED): Type de disposition
+      disableAds(OUTDATED): Désactiver les annonces
+      changeAdsConsent(OUTDATED): Modifier le concsentement aux annonces
+      allowInsecureConnections(OUTDATED): Autoriser les connections non sécurisées
+      disableEraserAfterUse(OUTDATED): Revenir au stylo après avoir utilisé la gomme
+      hideFingerDrawingToggle(OUTDATED): "Cacher l'icône de basculement vers le dessin au doigt"
+      autosaveDelay(OUTDATED): Délai de sauvegarde automatique
     prefDescriptions:
-      disableAds(OUTDATED): "Ads help support Saber's development, but you can disable them if you'd like"
-      allowInsecureConnections(OUTDATED): (Not recommended) Allow Saber to connect to servers with self-signed/untrusted certificates
+      disableAds(OUTDATED): Les annonces aident à soutenir le développement de Saber, mais vous pouvez les désactiver si vous le souhaitez
+      allowInsecureConnections(OUTDATED): (Déconseillé) Autoriser Saber à se connecter à des serveurs dont les certificats sont auto-signés/non approuvés
       hideFingerDrawing:
-        shown(OUTDATED): Prevents accidental toggling
-        fixedOn(OUTDATED): Finger drawing is fixed as enabled
-        fixedOff(OUTDATED): Finger drawing is fixed as disabled
-      autosaveDelay(OUTDATED): How long to wait before auto-saving a note
+        shown(OUTDATED): Empêcher le basculement accidentel
+        fixedOn(OUTDATED): Le dessin au doigt est verrouillé à : activé
+        fixedOff(OUTDATED): Le dessin au doigt est verrouillé à : désactivé
+      autosaveDelay(OUTDATED): Combien de temps laisser passer avec de sauvegarder automatiquement
     layoutSizes:
       auto(OUTDATED): Auto
-      phone(OUTDATED): Phone
-      tablet(OUTDATED): Tablet
+      phone(OUTDATED): Téléphone
+      tablet(OUTDATED): Tablette
   login:
     feedbacks:
-      ncUnsupportedFailure(OUTDATED): The given server is running Nextcloud $v but this version of Saber only supports Nextcloud $s.
+      ncUnsupportedFailure(OUTDATED): Le serveur choisi utilise Nextcloud $v mais cette version de Saber nécessite Nextcould $s.
   editor:
     pens:
-      laserPointer(OUTDATED): Laser pointer
+      laserPointer(OUTDATED): Pointeur laser
     colors:
-      colorPicker(OUTDATED): Color picker
-      black(OUTDATED): Black
-      darkGrey(OUTDATED): Dark grey
-      grey(OUTDATED): Grey
-      lightGrey(OUTDATED): Light grey
-      white(OUTDATED): White
-      red(OUTDATED): Red
-      green(OUTDATED): Green
-      blue(OUTDATED): Blue
-      yellow(OUTDATED): Yellow
-      purple(OUTDATED): Purple
+      colorPicker(OUTDATED): Pipette de couleur
+      black(OUTDATED): Noir
+      darkGrey(OUTDATED): Gris sombre
+      grey(OUTDATED): Gris
+      lightGrey(OUTDATED): Gris clair
+      white(OUTDATED): Blanc
+      red(OUTDATED): Rouge
+      green(OUTDATED): Vert
+      blue(OUTDATED): Bleu
+      yellow(OUTDATED): Jaune
+      purple(OUTDATED): Violet
       orange(OUTDATED): Orange
-      pastelRed(OUTDATED): Pastel red
-      pastelOrange(OUTDATED): Pastel orange
-      pastelYellow(OUTDATED): Pastel yellow
-      pastelGreen(OUTDATED): Pastel green
-      pastelCyan(OUTDATED): Pastel cyan
-      pastelBlue(OUTDATED): Pastel blue
-      pastelPurple(OUTDATED): Pastel purple
-      pastelPink(OUTDATED): Pastel pink
+      pastelRed(OUTDATED): Rouge pastel
+      pastelOrange(OUTDATED): Orange pastel
+      pastelYellow(OUTDATED): Jaune pastel
+      pastelGreen(OUTDATED): Vert pastel
+      pastelCyan(OUTDATED): Cyan pastel
+      pastelBlue(OUTDATED): Bleu pastel
+      pastelPurple(OUTDATED): Violet pastel
+      pastelPink(OUTDATED): Rose pastel
     menu:
-      clearPage(OUTDATED): Clear page $page/$totalPages
+      clearPage(OUTDATED): Effacer la page $page/$totalPages
     hud:
-      unlockAxisAlignedPan(OUTDATED): Unlock panning to horizontal or vertical
-      lockAxisAlignedPan(OUTDATED): Lock panning to horizontal or vertical
-    needsToSaveBeforeExiting(OUTDATED): Saving your changes... You can safely exit the editor when it's done
+      unlockAxisAlignedPan(OUTDATED): "Déverrouiller le panoramique à l'horizontale ou la verticale"
+      lockAxisAlignedPan(OUTDATED): "Verrouiller le panoramique à l'horizontale ou la verticale"
+    needsToSaveBeforeExiting(OUTDATED): "Sauvegarde en cours... Vous pourrez quitter l'éditeur en toute securité quand ce sera terminé"
 hu:
   home:
     backFolder(OUTDATED): Go back to the previous folder
